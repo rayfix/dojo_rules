@@ -5,5 +5,6 @@ My favorite codepath is Ruby.
 * iOS
 * Swift
 * C++
+* Killing history using git rebase
 
 
